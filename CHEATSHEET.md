@@ -2,6 +2,10 @@
 
 ## Gestão de Product Ops
 
+### Visão
+
+### Missão
+
 ### Problemas que criam a necessidade de uma operação de Produtos Digitais
 Causa: Roadmap fragmentado e que não endereça o importante para resolver os problemas, não reflete a vida real  
 Gestão de produtos resolve validando as hipóteses com alta frequência  
@@ -93,11 +97,31 @@ https://produtoreativo.com.br/dashboard-de-confiabilidade/
 Indicador para a taxa de produtização de um serviço ou jornada.
 https://produtoreativo.com.br/taxa-de-produtizacao/
 
-## Time ProdOps e Papéis associados
+## Team Building: Time ProdOps e Papéis associados
+
+### Literatura preliminar
+
+#### Definição precisa de papéis, cargos e perfis
+
+O ProdOps trabalha com a identificação precisa de papéis e estruturação das equipes para acomodar no plano de cargos e salários da empresa respeitando a cultura e estrutura existente.
+
+https://produtoreativo.com.br/hierarquia-de-cargos-e-papeis/
+
+#### Expansão do time de produtos digitais
+
+Mapeamento das equipes principais e auxiliares na construção da cultura de produtos digitais.
+
+https://produtoreativo.com.br/expansao-do-squad-com-times-fixos-e-times-virtuais/
+
+#### Construção de Building Blocks
+
+Time de produtos influenciam a construção da plataforma com membros dedicados para cada time e alimentando o Roadmap da plataforma.
 
 ### Product Operations Tracker
 
-Autonomia para validar  
+O papel base de todos os papéis e posições a partir da teoria ProdOps, necessário para construir a jornada de Avaliação Contínua.
+
+https://produtoreativo.com.br/product-operations-tracker/
 
 ### Product Operations Specialist
 ### Product Operations Manager
