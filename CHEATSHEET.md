@@ -2,18 +2,8 @@
 
 ## Gestão de Product Ops
 
-### Visão
-
-### Missão
-
-### Problemas que criam a necessidade de uma operação de Produtos Digitais
-Causa: Roadmap fragmentado e que não endereça o importante para resolver os problemas, não reflete a vida real  
-Gestão de produtos resolve validando as hipóteses com alta frequência  
-Características: VUCA, BANI  
-Problemas que atrapalham a gestão de produtos ser efetivo: alinhamento e time to market  
-
-### Foco da atuação utilizando o Framework ProdOps
-### Eliminar o trabalho repetitivo
+### Visão e Missão
+https://produtoreativo.com.br/visao-e-missao-do-prodops/
 
 ### Estratégias
 
@@ -28,6 +18,8 @@ https://produtoreativo.com.br/trabalho-previo-ao-plano-de-confiabilidade/
 https://produtoreativo.com.br/maturidade-das-capabilidades/
 
 #### ProdOps Escalado
+Centro de Habilitação ProdOps  
+https://produtoreativo.com.br/centro-de-habilitacao-prodops-c4e-center-for-enablement/
 
 ### Táticas
 #### Kanban 
@@ -68,7 +60,7 @@ https://produtoreativo.com.br/avaliacao-continua-continuous-assessment/
 ### Postmortem
 
 ## Artefatos
-### Roadmap
+### Roadmap Integrado
 
 ### Tracking List
 
@@ -76,23 +68,31 @@ https://produtoreativo.com.br/avaliacao-continua-continuous-assessment/
 Product Deck é uma “carta” ou um Canvas em uma página, de preferência, para agupar todas as informações úteis sobre um produto para qualquer um que precise entender de forma rápida: o que faz, não faz, quem faz, como é estruturado, e demais ações que ajudem a tomar decisões e avaliar contextos.
 https://produtoreativo.com.br/product-deck/
 
-### Matriz de Confiabilidade
+### Service Deck
+Um Product Deck para uma Value Stream ser acompanhada no formato de um produto
+
 
 ### Service Blueprint
 Diagrama para identificar e estabelecer pontos de contato com os usuários do produto e toda a complexidade do ecossistema que faz o serviço acontecer.
 https://produtoreativo.com.br/diagrama-de-servico-service-blueprint/
 
-### Service Deck
+### Matriz de Confiabilidade
+Modelo de Dashboard que mapeia todas as dependências e equipes necessárias para o sucesso de um produto ou uma Value Stream
+https://produtoreativo.com.br/matriz-de-confiabilidade/
+
 
 ### Narrativa ProdOps
 Mapeamento das expectativas de todos os envolvidos com um Roadmap para encontrar as narrativas que causam ruídos desnecessários que afetam os objetivos e resultados por perspectivas, percepções e interesses distintos que não se convergem.
 https://produtoreativo.com.br/narrativa-prodops/
+
 ### Plano de Confiabilidade
 O plano de confiabilidade é uma carta de intenções para habilitar a Engenharia de Produto com um Roadmap equilibrado de ações suficientes para o momento do produto e pelo momento do negócio, detalhado pelas aplicações e componentes para ser refinando no planejamento de cada equipe participante do produto.
 https://produtoreativo.com.br/plano-de-confiabilidade/
+
 ### Dashboard de Confiabilidade
 A idéia desta Dashboard é equilibrar a visualização por números das 3 camadas de um produto. 
 https://produtoreativo.com.br/dashboard-de-confiabilidade/
+
 ### Product Gauge
 Indicador para a taxa de produtização de um serviço ou jornada.
 https://produtoreativo.com.br/taxa-de-produtizacao/
